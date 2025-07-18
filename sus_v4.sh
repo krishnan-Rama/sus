@@ -48,7 +48,7 @@ mapfile -t lines < <(
 cat > "$HTML_OUT" <<EOF
 <!doctype html>
 <html><head><meta charset="utf-8">
-  <title>CTD Gene Interactions</title>
+  <title>SUS-Pecies: Susceptible Species & Gene Interactions</title>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
   <style>
     .badge {display:inline-block;padding:0.25em 0.6em;font-size:75%;border-radius:0.25rem;color:#fff;}
